@@ -1,4 +1,4 @@
-package inheritance
+package polymorphism
 
 fun main() {
 
@@ -13,7 +13,7 @@ fun main() {
 
     val elda = Siswa()
     elda.nama = "Elda Qotul Maulya"
-    elda.alamat = "Boyolangu"
+    elda.alamat = "Boyolagu"
     elda.perkenalan()
     elda.pelajaran = "Matematika"
     elda.belajar()
